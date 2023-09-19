@@ -1,5 +1,5 @@
-<body style="background-color:lightblue;">
-<h1><img src="https://raw.githubusercontent.com/Mrpi314tech/Jimbot/main/images/Jimbot.png" alt="Jimbot logo" width=40> Jimbot</h1>
+<body style="background-image: url('https://raw.githubusercontent.com/Mrpi314tech/Jimbot/main/images/Jimbot.png" alt="Jimbot logo');">
+<h1>Jimbot</h1>
 "Control your computer, with your voice."
 <a href='https://github.com/Mrpi314tech/Jimbot'><button>Github</button></a>
 <h1></h1>
