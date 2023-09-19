@@ -1,4 +1,15 @@
-<body style="background-image: url('https://raw.githubusercontent.com/Mrpi314tech/Jimbot/main/images/Jimbot.png" alt="Jimbot logo');">
+
+<body style="background-image: url('https://raw.githubusercontent.com/Mrpi314tech/Jimbot/main/images/Jimbot.png" alt="Jimbot logo');" >
+<style>
+    .white-box {
+    background-color: white;
+    background-color: rgba(255,255,255,.5);
+    color: black;
+    <!--other positioning attributes-->
+}
+</style>
+<div class="white-box">
+
 <h1>Jimbot</h1>
 "Control your computer, with your voice."
 <a href='https://github.com/Mrpi314tech/Jimbot'><button>Github</button></a>
